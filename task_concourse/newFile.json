@@ -1,3 +1,5 @@
+platform: linux
+
 run:
   path: echo
   args: ["hello world 2"]
