@@ -6,5 +6,5 @@ image_resource:
     repository: busybox
 
 run:
-  path: vim
-  args: ["hello world"]
+  path: echo
+  args: ["hello world 2"]
